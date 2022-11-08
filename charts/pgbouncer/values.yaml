@@ -8,9 +8,9 @@ imageTag: "0.5"
 replicasCount: 2
 
 ## These are the PostgreSQL connection credentials.
-username: ""
-password: ""
-host: ""
+username: "pgb-lektory"
+password: "[XA]h=c&>XBp4bpr"
+host: 34.140.157.214
 hostPort: 5432
 
 ## The Kubernetes service type to expose PgBouncer with.  Use ClusterIP for security, LoadBalancer for dev deployments you want to connect to from outside the cluster.
